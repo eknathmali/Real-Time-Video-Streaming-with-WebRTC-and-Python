@@ -47,3 +47,8 @@ python receiver.py
 ```
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
+
+## Contact
+For questions or suggestions, please contact
+Email: malieknath135@gmail.com
+LinkedIn: [Link](https://www.linkedin.com/in/eknath-mali-5544121b9/)
