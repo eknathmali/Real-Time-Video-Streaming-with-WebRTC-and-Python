@@ -1,4 +1,3 @@
-# Real-Time-Video-Streaming-with-WebRTC-and-Python
 # Real-Time Video Streaming with WebRTC and Python
 
 ## Introduction
