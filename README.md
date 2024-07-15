@@ -23,8 +23,8 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourgithubprofile/real-time-video-streaming-webrtc-python.git
-    cd real-time-video-streaming-webrtc-python
+    git clone https://github.com/eknathmali/Real-Time-Video-Streaming-with-WebRTC-and-Python.git
+    cd Real-Time-Video-Streaming-with-WebRTC-and-Python
     ```
 
 2. Install the required Python packages:
